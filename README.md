@@ -33,7 +33,7 @@ da seguinte forma: dado um conjunto X de n objetos X = {x1, x2, x3, ... , Xn}, o
 
  Formulação matemáticado problema segue abaixo:
  
-![](https://github.com/uncisal/Clusteriza-o/blob/master/clusters.PNG)
+![](https://github.com/uncisal/Dataclustering/blob/master/clusters.PNG)
 
 Onde a formulação matemática constitui de $C = \{C_1, C_2,..., Ck} é uma partição particular de clusters e C é um conjunto de todas as partições possíveis do conjunto X, com k = 2,…, n-1 e S(Xi) é um valor de Silhouete de cada ponto Xi  pertence a X.
 A função, denominada Índice de Silhouete, foi proposta por (Kaufman e Rousseeuw, 2009). Por fim retorna os valores dentro do intervalo [-1,1] e não é necessário definir o valor de k,
@@ -55,7 +55,7 @@ abaixo segue uma breve explicação dos dois algoritmos.
    
 Por sua vez, na Figura 2 é feita a fase de construção de novas soluções. Nesta etapa, é criada uma lista restrita de candidatos e atribui os melhores valores das soluções da lista restrita candidatos a uma função gulosa.
    
-   ![](https://github.com/uncisal/Clusteriza-o/blob/master/grasp2.jpg)
+   ![](https://github.com/uncisal/Dataclustering/blob/master/grasp2.jpg)
    
    Figura 2: Fase de construção do Pseudo-código GRASP
    
