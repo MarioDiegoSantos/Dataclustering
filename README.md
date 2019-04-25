@@ -88,9 +88,9 @@ Fase separação da base íris.
 
 <img src=https://github.com/uncisal/Dataclustering/blob/master/fase%20separacao.PNG width="700" height="500">
 
+Centroides da base Íris
 
-
-
+<img src=https://github.com/uncisal/Dataclustering/blob/master/centroides%20da%20%C3%ADris.PNG width="700" height="500">
 
 
 
