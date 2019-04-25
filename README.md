@@ -97,5 +97,6 @@ Plots finais da base Íris segue na ordem: Correlação da base, números de clu
 <img src=https://github.com/uncisal/Dataclustering/blob/master/plots%20finais.PNG width="700" height="500">
 
 
+# REFERÊNCIAS
 
-
+FEO.T.A., RESENDE, M. G. C. Greedy Randomized Adaptive Search Procedures. Journal of Global Optimization, v. 6, p. 109–134, 1995. 
