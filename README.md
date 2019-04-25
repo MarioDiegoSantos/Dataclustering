@@ -82,7 +82,7 @@ Será primeiro descrito os resultados obtidos na linguagem R
 
 Representação da base íris.
 
-<img src=https://github.com/uncisal/Dataclustering/blob/master/representa%C3%A7%C3%A3o%20da%20base.jpg width="700" height="500">
+<img src=https://github.com/uncisal/Dataclustering/blob/master/representacao%20da%20base.PNG width="700" height="500">
 
 Fase separação da base íris.
 
