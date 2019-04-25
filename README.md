@@ -92,6 +92,10 @@ Centroides da base Íris
 
 <img src=https://github.com/uncisal/Dataclustering/blob/master/centroides%20da%20%C3%ADris.PNG width="700" height="500">
 
+Plots finais da base Íris
+
+<img src=https://github.com/uncisal/Dataclustering/blob/master/plots%20finais.PNG width="700" height="500">
+
 
 
 
