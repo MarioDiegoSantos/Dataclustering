@@ -113,7 +113,7 @@ Resultados das interações:
 
 # CONCLUSÃO
 
-Este trabalho propôs uma visão de como é feita a clusterização de dados utlizando o Dataset ÍRIS, como podemos observar a base pode ser bem explorada pois é bem organizada e seus dados são bem consistes e organizados. Devido a isso, podemos entender o comportamento da base através dos algoritmos que foram utilizados tanto o (K-means e GRASP) que foram bem sucetives a base. Por fim os resultados que foram dados pela meta-heurística GRASP mostra que o ganho de desempenho é bastante interessante, pois a velocidade em GPU mostrou-se bastante eficaz para fazer a clusterização dos dodos. 
+Este trabalho propôs uma visão de como é feita a clusterização de dados utilizando o Dataset ÍRIS, como podemos observar a base de dados pode ser bem explorada pois é bem organizada e seus dados são bem consistes e organizados. Devido a isso, podemos entender o comportamento da base através dos algoritmos que foram utilizados tanto o (K-means e GRASP) que foram bem sucetives a base. Por fim os resultados que foram dados pela meta-heurística GRASP mostra que o ganho de desempenho é bastante interessante, pois a velocidade em GPU mostrou-se bastante eficaz para fazer a clusterização dos dodos. 
 
 
 # REFERÊNCIAS
