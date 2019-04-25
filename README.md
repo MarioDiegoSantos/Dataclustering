@@ -58,6 +58,8 @@ Por sua vez, na Figura 2 é feita a fase de construção de novas soluções. Ne
    ![](https://github.com/uncisal/Clusteriza-o/blob/master/grasp2.jpg)
    
    Figura 2: Fase de construção do Pseudo-código GRASP
+   
+   A eficácia destes métodos depende da sua capacidade para se adaptar a uma realização particular, evitar o aprisionamento em ótimos locais e explorar a estrutura básica do problema, como por exemplo uma rede ou um ordenamento natural entre seus componentes. Além disso, procedimentos como: reinicialização, randomização controlada, estruturas de dados eficientes, e pré-processamento também são benéficos.
 # METODOLOGIA
 As ferramentas que foram utilizadas nesse projeto foi: 
 
