@@ -78,7 +78,7 @@ Foi utilizada a base de dados Íris composta por um conjunto de dados que conté
 
 # RESULTADOS ATRAVEZ DA LINGUAGEM R E C++
 
-Será primeiro descrito os resultados obtidos na linguagem R
+Primeiro será descrito os resultados obtidos na linguagem R
 
 Representação da base íris.
 
@@ -96,7 +96,20 @@ Plots finais da base Íris segue na ordem: Correlação da base, números de clu
 
 <img src=https://github.com/uncisal/Dataclustering/blob/master/plots%20finais.PNG width="700" height="500">
 
+Resultados obtidos em C++
+
+<img src=https://github.com/uncisal/Dataclustering/blob/master/resultados%20%20em%20GPU.PNG width="700" height="500">
 
 # REFERÊNCIAS
 
+Dib Cruz, Marcelo & Ochi, Luiz. (2015). A Hybrid Method Using Evolutionary and a Linear Integer Model to Solve the Automatic Clustering Problem. Learning and Nonlinear Models. 13. 73-91. 10.21528/LNLM-vol13-no2-art2. 
+
 FEO.T.A., RESENDE, M. G. C. Greedy Randomized Adaptive Search Procedures. Journal of Global Optimization, v. 6, p. 109–134, 1995. 
+
+Nogueira, B., Tavares, E., Araujo, J., & Callou, G. (2019). Accelerating continuous GRASP with a GPU. Journal of Supercomputing.
+
+The wilke Lab: Computational Evolutionary Biology disponível em: https://wilkelab.org/
+
+UCI:  Center for Machine Learning and Intelligent Systems. Machine Leaning Repository Disponível em:https://archive.ics.uci.edu/ml/datasets/iris
+
+
