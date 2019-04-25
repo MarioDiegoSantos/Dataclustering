@@ -29,13 +29,13 @@ para análise de validade dos cluster.
 de dados a fim de garantir a confiabilidade da extração que foi extraída na base de conhecimento.
 
 De acordo com Satoru Ochi (2015), o Problema de Clusterização Automática (PCA) é apresentado
-da seguinte forma: dado um conjunto X de n objetos X = {x1, x2, x3, ... , Xn}, onde cada objeto Xi é uma tupla (xi1, xi2, ..., Xip), e cada coordenada xij está relacionada a um atributo do objeto (cada objeto pode ser um ponto p no espaço. O objetivo é encontrar uma partição X = {C1,C2, ... ,Ck} de clusters, onde K não é conhecido, de modo que a similaridade entre os objetos do mesmo cluster são maximizados e, a similaridade entre objetos de diferentes clusters é minimizada, sob as seguintes condições adicionais:
+da seguinte forma: dado um conjunto X de n objetos X = {x1, x2, x3, ... , Xn}, onde cada objeto Xi é uma tupla (xi1, xi2, ..., Xip), e cada coordenada Xij está relacionada a um atributo do objeto (cada objeto pode ser um ponto p no espaço. O objetivo é encontrar uma partição X = {C1,C2, ... ,Ck} de clusters, onde K não é conhecido, de modo que a similaridade entre os objetos do mesmo cluster são maximizados e, a similaridade entre objetos de diferentes clusters é minimizada, sob as seguintes condições adicionais:
 
  Formulação matemáticado problema segue abaixo:
  
 ![](https://github.com/uncisal/Dataclustering/blob/master/clusters.PNG)
 
-Onde a formulação matemática constitui de $C = \{C_1, C_2,..., Ck} é uma partição particular de clusters e C é um conjunto de todas as partições possíveis do conjunto X, com k = 2,…, n-1 e S(Xi) é um valor de Silhouete de cada ponto Xi  pertence a X.
+Onde a formulação matemática constitui de C = \{C_1, C_2,..., Ck} é uma partição particular de clusters e C é um conjunto de todas as partições possíveis do conjunto X, com k = 2,…, n-1 e S(Xi) é um valor de Silhouete de cada ponto Xi  pertence a X.
 A função, denominada Índice de Silhouete, foi proposta por (Kaufman e Rousseeuw, 2009). Por fim retorna os valores dentro do intervalo [-1,1] e não é necessário definir o valor de k,
 porque o valor mais apropriado de k é alcançado maximizando essa função.
 
