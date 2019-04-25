@@ -98,6 +98,16 @@ Plots finais da base Íris segue na ordem: Correlação da base, números de clu
 
 Resultados obtidos com C++  usando a plataforma CUDA em GPU 
 
+Interação 01
+
+<img src=https://github.com/uncisal/Dataclustering/blob/master/intera%C3%A7%C3%A3o%2001.PNG width="400" height="250">
+
+Interação 02
+
+<img src=https://github.com/uncisal/Dataclustering/blob/master/intera%C3%A7%C3%A3o%2002.PNG width="400" height="250">
+
+Resultados das interações:
+
 <img src=https://github.com/uncisal/Dataclustering/blob/master/resultados%20%20em%20GPU.PNG width="450" height="300">
 
 
