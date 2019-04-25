@@ -76,4 +76,22 @@ padrão ( A linguagem utilizada foi C++).
 
 Foi utilizada a base de dados Íris composta por um conjunto de dados que contém 3 classes de 50 instâncias cada, onde cada classe se refere a um tipo de planta da íris. Os tipos são (Iris Setosa) (Iris Versicolour) (Iris Virginica). Para mais informações acesse: http://archive.ics.uci.edu/ml/datasets/iris  e http://wilkelab.org/classes/SDS348/data_sets/biopsy.csv
 
-# RESULTADOS
+# RESULTADOS ATRAVEZ DA LINGUAGEM R E C++
+
+Será primeiro descrito os resultados obtidos na linguagem R
+
+Representação da base íris.
+
+<img src=https://github.com/uncisal/Dataclustering/blob/master/representa%C3%A7%C3%A3o%20da%20base.jpg width="700" height="500">
+
+Fase separação da base íris.
+
+<img src=https://github.com/uncisal/Dataclustering/blob/master/fase%20separacao.PNG width="700" height="500">
+
+
+
+
+
+
+
+
