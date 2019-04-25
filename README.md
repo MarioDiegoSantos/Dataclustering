@@ -49,7 +49,7 @@ abaixo segue uma breve explicação dos dois algoritmos.
    
    Na Figura 1 é apresentado um pseudocódigo do algoritmo GRASP. Na linha 1, é inicializada a instância do problema. A partir das instâncias, é feita a construção das soluções e a busca local, onde serão atualizados as melhores soluções encontradas dentro das instâncias. Por fim, será retornado o melhor valor da solução que foi encontrada.
    
-   ![](https://github.com/uncisal/Clusteriza-o/blob/master/grasp1.jpg)
+   ![](https://github.com/uncisal/Dataclustering/blob/master/grasp1.jpg)
    
    Figura 1: Um pseudo-código genérico GRASP
    
