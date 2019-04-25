@@ -39,7 +39,7 @@ Onde a formulação matemática constitui de $C = \{C_1, C_2,..., Ck} é uma par
 A função, denominada Índice de Silhouete, foi proposta por (Kaufman e Rousseeuw, 2009). Por fim retorna os valores dentro do intervalo [-1,1] e não é necessário definir o valor de k,
 porque o valor mais apropriado de k é alcançado maximizando essa função.
 
-foi utilizados dois algoritmos bases para resolução do Problema de Clusterização Cutomática (K-means e GRASP)
+  Foi utilizados dois algoritmos bases para resolução do Problema de Clusterização  automática (K-means e GRASP)
 abaixo segue uma breve explicação dos dois algoritmos.
 
   Em mineração de dados, agrupamento k-means é um método de Clustering que objetiva particionar n observações dentre k grupos onde cada observação pertence ao grupo mais próximo da média. Isso resulta em uma divisão do espaço de dados em um Diagrama de Voronoi.
@@ -92,7 +92,7 @@ Centroides da base Íris
 
 <img src=https://github.com/uncisal/Dataclustering/blob/master/centroides%20da%20%C3%ADris.PNG width="700" height="500">
 
-Plots finais da base Íris
+Plots finais da base Íris segue na ordem: Correlação da base, números de clusters, média, mediana, quartil e amplitude, serparação das espécies.
 
 <img src=https://github.com/uncisal/Dataclustering/blob/master/plots%20finais.PNG width="700" height="500">
 
