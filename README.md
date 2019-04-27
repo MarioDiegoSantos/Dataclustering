@@ -76,7 +76,7 @@ padrão ( A linguagem utilizada foi C++).
 
 Foi utilizada a base de dados Íris composta por um conjunto de dados que contém 3 classes de 50 instâncias cada, onde cada classe se refere a um tipo de planta da íris. Os tipos são (Iris Setosa) (Iris Versicolour) (Iris Virginica). Para mais informações acesse: http://archive.ics.uci.edu/ml/datasets/iris  e http://wilkelab.org/classes/SDS348/data_sets/biopsy.csv
 
-# RESULTADOS ATRAVÉZ DA LINGUAGEM R E C++
+# RESULTADOS ATRAVÉS DA LINGUAGEM R E C++
 
 Primeiro será descrito os resultados obtidos na linguagem R
 
